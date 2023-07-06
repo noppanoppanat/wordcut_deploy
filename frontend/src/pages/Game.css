@@ -1,0 +1,265 @@
+@import url('https://fonts.googleapis.com/css2?family=Itim&display=swap');
+*{
+    font-family: 'Itim', cursive;
+}
+body{ 
+    background-image: url(https://www.papertraildesign.com/wp-content/uploads/2019/05/quarter-inch-black-lines-graph-paper.jpg);
+    font-family: 'Itim', cursive;
+}
+
+
+
+.top-header{
+    display: grid;
+    grid-template-columns: auto;
+    background-color: rgb(5, 62, 80);
+    background-image: url(https://img.freepik.com/vetores-premium/de-volta-ao-fundo-de-material-escolar_75047-53.jpg?w=740);
+    width: 150%;
+    height: 0%;
+    
+
+}
+.text-header{
+    display: grid;
+    grid-template-columns: 300px 30px;
+    color: rgb(224, 150, 12);
+  font-family: 'Itim', cursive;
+  font-size: 50px;
+  font-weight: bold;
+  margin-left: 40px;
+  text-shadow: 0.1em 0.1em  rgb(44, 44, 44)
+  }
+
+.game-title{
+    
+    border-radius:25px;
+   
+    margin-bottom: 3rem;
+   
+}
+
+.text-title-1{
+
+    font-family: 'Itim', cursive;
+    font-size: 40px;
+    font-weight: bold;
+    width: 700;
+    text-align: center;
+    color: rgb(224, 150, 12);
+    text-shadow: 2px 3px   rgb(30, 53, 46);
+   
+}
+
+.text-title-2{
+    font-family: 'Itim', cursive;
+    font-size: 30px;
+    font-weight: bold;
+    width: 500;
+    text-align: center;
+    color: rgb(60, 170, 137);
+    text-shadow: 1px 1px   rgb(224, 150, 12);
+    
+}
+
+.group-start-input{
+    border:0.8em solid rgb(224, 150, 12);
+  padding: 50px;
+  background:rgb(255, 255, 255);
+  margin: 5px 200px;
+  border-radius:25px;
+  box-shadow: 20px 20px 15px #c9c8c4;
+  margin-top: 3rem;
+
+}
+.text-random{
+    font-family: 'Itim', cursive;
+    text-align: center;
+    font-size: 26px;
+    font-weight: 500;
+    margin-left: 160px;
+    display: inline-block;
+
+   
+    
+    
+}
+.input-text{
+    font-family: 'Itim', cursive;
+    margin: 19px;
+    width: 200px;
+    font-size: 22px;
+
+}
+
+
+.random-bottom{
+    background-color: rgb(14, 158, 69);
+  color: rgb(255, 255, 255);
+  font-family: 'Itim', cursive;
+ 
+  padding: 8px;
+  text-align: center;
+  margin-left: 5em;
+  margin-top: 30px;
+  margin-bottom: 24px;
+  border-width: 4px;
+  border-radius:16px;
+  border-color: rgb(227, 227, 228);
+  display: block;
+  margin: auto;
+
+}
+.text-start{
+    padding: 4px;
+    font-size: 18px;
+}
+
+.button-pause{
+    background-color: rgb(253, 253, 253);
+    color: rgb(0, 0, 0);
+    font-family: 'Itim', cursive;
+    font-size: 15px;
+    font-weight: 1000;
+    padding: 8px;
+    width: 50px;
+    text-align: center;
+   
+    border-radius:48px;
+    
+}
+.text-ramdom-tone{
+    font-family: 'Itim', cursive;
+    font-size: 30px;
+    margin-left: 110px;
+    margin-top: 10px;
+
+    
+}
+.random-tone{
+   font-family: 'Itim', cursive;
+    font-size: 30px;
+  margin-left: 330px;
+  margin-bottom: 40px;
+
+  
+  
+}
+
+.text-input{
+   font-family: 'Itim', cursive;
+    font-size: 23px;
+    margin-left: 90px;
+    display: inline;
+
+    
+
+}
+
+.input-text-1{
+   font-family: 'Itim', cursive;
+    font-size: 20px;
+    margin-left: 30px;
+    width: 200px;
+    padding: 6px;
+    
+   
+
+   
+}
+
+.submit-answer-btn{
+    background-color: rgb(60, 170, 137);
+    color: rgb(255, 255, 255);
+   font-family: 'Itim', cursive;
+    font-size: 20px;
+    font-weight: 400px;
+   margin-left: 20px;
+    padding: 8px;
+    text-align: center;
+    border-radius:16px;
+    border-width: 4px;
+    
+}
+.text-time{
+    text-align: center;
+}
+.text-score{
+    text-align: center;
+}
+.text-round{
+    text-align: center;
+}
+
+
+
+.modal-title-1{
+   font-family: 'Itim', cursive;
+    text-align: center;
+
+}
+.modal-body-1{
+   font-family: 'Itim', cursive;
+    text-align: center;
+}
+.modal-title-2{
+   font-family: 'Itim', cursive;
+    text-align: center;
+
+}
+.modal-body-2{
+   font-family: 'Itim', cursive;
+    text-align: center;
+}
+.modal-button-1{
+   font-family: 'Itim', cursive;
+    text-align: center;
+    background-color: rgb(224, 178, 27);
+  color: rgb(255, 255, 255);
+  padding: 10px;
+  text-align: center;
+  
+  border-width: 1px;
+  border-radius:16px;
+  border-color: rgb(227, 227, 228);
+  display: block;
+  margin: auto;
+
+}
+.modal-button-2{
+   font-family: 'Itim', cursive;
+    text-align: center;
+   font-family: 'Itim', cursive;
+    text-align: center;
+    background-color: rgb(27, 145, 224);
+  color: rgb(255, 255, 255);
+  padding: 10px;
+  text-align: center;
+  
+  border-width: 1px;
+  border-radius:16px;
+  border-color: rgb(227, 227, 228);
+  display: block;
+  margin: auto;
+}
+.modal-button-3{
+   font-family: 'Itim', cursive;
+    text-align: center;
+   font-family: 'Itim', cursive;
+    text-align: center;
+    background-color: rgb(33, 118, 175);
+  color: rgb(255, 255, 255);
+  padding: 10px;
+  text-align: center;
+  
+  border-width: 1px;
+  border-radius:16px;
+  border-color: rgb(227, 227, 228);
+  display: block;
+  margin: auto;
+
+}
+.modal-body-3{
+    text-align: left;
+    margin: 20px;
+
+}
